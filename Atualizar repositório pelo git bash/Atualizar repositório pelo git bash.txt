@@ -1,0 +1,13 @@
+Atualizar repositórios:
+
+git add .
+
+git status
+
+git commit -m "seu texo aqui"
+
+git status
+
+git push origin main
+
+(verifica o github)
