@@ -1,0 +1,11 @@
+Ctrl+J: Abre terminal no VScode (bash);
+
+git init
+git status
+git add .
+git commit -m "primeiro commit"
+
+--Cria um diretório no Github
+--No Github, copia a linha: "...or push an existing
+repository from the command line"
+--Cola no terminal e dá ENTER.
